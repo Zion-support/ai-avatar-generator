@@ -1,14 +1,15 @@
 # 🌐 Zion App Network — Interlinks
 
-**ai-avatar-generator** — personalized 3D avatars and digital identities. Part of the Zion Tech Group app network (630+ apps).
+**ai-avatar-generator** is part of the Zion Tech Group app network (630+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 - 🗂️ Category: [Content & Marketing](https://github.com/Zion-support/zion-network/blob/main/network/content-marketing.md)
 
 ## Related apps
-- [ai-image-generator](https://github.com/Zion-support/ai-image-generator) — AI image creation
-- [ai-image-editor](https://github.com/Zion-support/ai-image-editor) — AI image editing
-- [zion-ai-video-studio](https://github.com/Zion-support/zion-ai-video-studio) — AI video generation
+- [ai-advertising-optimizer](https://github.com/Zion-support/ai-advertising-optimizer) — AI Advertising Optimizer
+- [ai-audio-engine](https://github.com/Zion-support/ai-audio-engine) — AI audio processing and sound design
+- [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber) — Speech-to-text with diarization
+- [ai-caption-generator](https://github.com/Zion-support/ai-caption-generator) — Social media captions with AI
 - [zion-network](https://github.com/Zion-support/zion-network) — network hub
 
 ---
