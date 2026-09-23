@@ -5,7 +5,8 @@ This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools 
 - 🏠 Homepage: https://ziontechgroup.com
 - 📂 Full catalog: https://ziontechgroup.com/apps/
 - 📢 Network overview: https://ziontechgroup.com/app-network/
+- 🧰 Free tools: https://ziontechgroup.com/free-ai-tools/
 - 💻 GitHub: https://github.com/Zion-support
 - ✉️ commercial@ziontechgroup.com
 
-**Related apps:** [ai-image-generator](https://github.com/Zion-support/ai-image-generator) · [zion-ai-video-studio](https://github.com/Zion-support/zion-ai-video-studio) · [ai-image-editor](https://github.com/Zion-support/ai-image-editor)
+**Related apps:** [ai-image-generator](https://github.com/Zion-support/ai-image-generator) · [ai-image-editor](https://github.com/Zion-support/ai-image-editor) · [zion-ai-video-studio](https://github.com/Zion-support/zion-ai-video-studio)
